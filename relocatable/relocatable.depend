@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702439076 source:d:\v semester\ss\lab\relocatable\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+

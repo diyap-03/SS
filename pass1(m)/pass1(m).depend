@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699422326 source:d:\v semester\ss\lab\pass1(m)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

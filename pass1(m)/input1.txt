@@ -1,0 +1,16 @@
+-	START	1000
+-	LDA	='five'
+-	STA	ALPHA
+-	LDCH 	CHARZ
+- 	STCH 	C1
+-  	ORG     5000
+ALPHA 	RESW 	2
+-  	ORG	   7000
+CHARZ 	BYTE 	C'Hello'
+C1	RESB 	1
+VAL   	EQU     1234
+B       EQU     6
+='five' WORD 	4
+- 	END	-
+
+

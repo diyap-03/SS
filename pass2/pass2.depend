@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701235898 source:d:\v semester\ss\lab\pass2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
